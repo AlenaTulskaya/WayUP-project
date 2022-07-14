@@ -1,0 +1,23 @@
+h1{
+    color:rgb(211, 25, 25);
+}
+
+.par{
+    width:90px;
+    text-align: center;
+}
+.first{
+    color:white;
+    background-color: blue;
+    width:fit-content;
+    height:auto;
+}
+
+h2{
+color:white;
+background-color: green;
+}
+
+li{
+    border:1px solid black;
+}
